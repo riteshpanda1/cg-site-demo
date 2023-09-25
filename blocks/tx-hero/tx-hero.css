@@ -12,7 +12,7 @@ main .tx-hero {
   min-height: 300px;
 }
 
-main .tx-hero h1 {
+main .tx-hero p {
   max-width: 1200px;
   margin-left: 30px;
   margin-right: auto;
