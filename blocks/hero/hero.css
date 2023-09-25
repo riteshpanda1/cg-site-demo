@@ -41,10 +41,20 @@ main .hero img {
   color: black;
   float: left;
   border: 1.5px solid black;
-  padding: 12px 30px;
+  padding: 8px 20px;
   font-size: 14px;
   font-family: "Arial", sans-serif;
   background-color: white;
   margin-left: 30px;
   text-transform: uppercase;
+}
+#markets--economy{
+  margin-left: 30px;
+  font-size: 10;
+  text-transform: uppercase;
+}
+
+#textOne{
+  margin-left: 30px;
+  font-size: 15;
 }
